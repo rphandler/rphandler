@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on an end-to-end Machine Learning project where my goal is to simulate how a data scientist works in a real industry setting. I start by understanding the business problem, then perform data cleaning, exploratory data analysis, and feature engineering. After that, I train multiple machine learning models, compare their performance using appropriate evaluation metrics, and fine-tune the best model using cross-validation and hyperparameter tuning. Finally, I focus on interpreting the results and converting them into meaningful business insights.<br>👯 I’m looking to collaborate on data science and machine learning projects involving structured data, predictive modeling, and business-driven insights. I’m particularly interested in working with teams where I can contribute to data cleaning, EDA, model development, and evaluation, and also learn best practices used in real industry projects.<br>🤝 I’m looking for help with improving my end-to-end machine learning project, particularly in feature engineering, hyperparameter tuning, and validating the model using proper cross-validation techniques.<br>🌱 I’m currently learning machine learning using Python, scikit-learn, and related data science libraries, while strengthening my understanding of model evaluation, cross-validation, and feature engineering.<br>💬 Ask me about building end-to-end machine learning pipelines using Python.<br>⚡ Fun fact I find data cleaning more satisfying than model training—it’s where most real problems are solved.
 
-<!--
-**rphandler/rphandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rphandler&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rphandler&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rphandler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=rphandler&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
